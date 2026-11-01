@@ -4,7 +4,7 @@ A sliding puzzle game for Windows that uses Vim keys to move the tiles.
 
 I made this to mix Vim with a fun game. Getting good at the puzzle means practicing Vim motions, making it a fun way to learn the basics.
 
-<img width="243" height="396" alt="8 Puzzle Vim screenshot" src="https://github.com/user-attachments/assets/26ce35d7-213e-49b4-af4b-c64effd4f5df" />
+<img width="243" height="396" alt="Screenshot 2026-11-01 233456" src="https://github.com/user-attachments/assets/fc6dffc0-8def-46a5-ae57-b3013aef17f8" />
 
 ## Installation
 
